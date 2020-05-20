@@ -12,10 +12,14 @@ Links to our other repos!
 ### Let's get started!
 ### So, you may think, where is the file, the README file I'm looking at? I don't see it. Also where is the license?
 (We don't have a license, the [license file](/docs/LICENSE.txt) is ***FAKE***.)
-#### Where is the license file?
+##### Where is the license file?
 Huh, I don't know, hmm, can I ask you back? "Where ***IS*** the [license file](/docs), huh?
 ### Where is the README file I'm reading right now?
 [idk, I *ABOSOLUTELY 100%LY DONT KNOW WHERE IS IT*. ](/docs)<sub><sub><sub><sub><sub><sup><sup>i am struggling lieing xD</sup></sup></sub></sub></sub></sub></sub> **I DEFENITLY *DON'T* KNOW!**
+##### .github?
+Yes, you can put those in .github, butt although your visitor can see the README/license files, we can't put the files in there, ***WHY?*** because, the folder is *hidden* from non-colaborators.
 
-### Sooo, yeah! Here is a random tables to clarify! <sub><sub><sub><sub><sub><sup><sup>*The sacasm lol*</sup></sup></sub></sub></sub></sub></sub>
-
+### Sooo, yeah! Here is a random tables to clarify! <sub><sub><sub><sub><sub><sup><sup>*The sarcasm lol*</sup></sup></sub></sub></sub></sub></sub> :D
+|The Table|
+|---------|
+| |
