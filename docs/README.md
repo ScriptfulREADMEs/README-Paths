@@ -17,3 +17,5 @@ Huh, I don't know, hmm, can I ask you back? "Where ***IS*** the [license file](/
 ### Where is the README file I'm reading right now?
 [idk, I *ABOSOLUTELY 100%LY DONT KNOW WHERE IS IT*. ](/docs)<sub><sub><sub><sub><sub><sup><sup>i am struggling lieing xD</sup></sup></sub></sub></sub></sub></sub> **I DEFENITLY *DON'T* KNOW!**
 
+### Sooo, yeah! Here is a random tables to clarify! <sub><sub><sub><sub><sub><sup><sup>*The sacasm lol*</sup></sup></sub></sub></sub></sub></sub>
+
