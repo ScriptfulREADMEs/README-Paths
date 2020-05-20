@@ -10,4 +10,5 @@ Links to our other repos!
 |-------------|
 
 ### Let's get sTARtEDDDDddDDddDdDddDDDdDd!!111111!!!!!1!1111!1!1!!11!!!!11!1!
-<details><summary>SWEAR WORD ALERT!! 13+ TAB!!!111!!1!</summary>##### Now, you may think, WTF!?! WHERE THE MOTHER F\*\*\*ING **HT ##@*$@&@&$$?!?!#?$ IS THE README?!!<details>
+<details><summary>SWEAR WORD ALERT!! <sup><sup><sub><sub><sub><sub>Don't read this part if you are a sesitive animal, no offense</sub></sub></sub></sub></sup></sup></summary>Now, you may think, WTF!?! WHERE THE F$#?! IS THE README?!!</details>
+<details><summary>Family friendly one lol</summary>Now, you may think, BLEEP(x3)!?! WHERE IS THE THE README?!!?!</details>
