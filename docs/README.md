@@ -25,6 +25,6 @@ Yes, you can put those in .github, butt although your visitor can see the README
 | |
 
 |In what folder?|Can ppl see the README file?|Can ppl see the license file?|Can ppl see them under the file selector?|
-|-----|
+|-----|-----|-----|-----|
 |.github|YES|sometimes, mostly NO|LICENSE.txt: Depends, mostly NO / README YES|
-
+|/docs|YES|YES, in the folder, atleast|LICENSE.txt: Depends, mostly NO / README YES|
