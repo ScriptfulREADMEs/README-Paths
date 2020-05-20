@@ -1,13 +1,13 @@
 # README Paths, aka "Where to Put Your Fat README files" in a nutshell
 Ever thought, README.md files are very annoying? Well this is your *"saving grace"*!
 
-Links to our other repos!
-|REPOs/Guides!|
-|-------------|
-|What a big fat oofie!|
-|We're **EMPTY**!|
-|*Hey! That rhymes!* :D|
-|-------------|
+Links to our other repositories/*"so-called organisations"*!
+|REPOs/Guides!|Organisations!|
+|-------------|------------|
+|What a big fat oofie!|We have some!|
+|We're **EMPTY**!|But we're not finished configuring them.|
+|*Hey! That rhymes!* :D|What a bummer! :P|
+
 
 ### Let's get started!
 ### So, you may think, where is the file, the README file I'm looking at? I don't see it. Also where is the license?
