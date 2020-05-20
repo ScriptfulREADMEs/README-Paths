@@ -15,5 +15,5 @@ Links to our other repos!
 #### Where is the license file?
 Huh, I don't know, hmm, can I ask you back? "Where ***IS*** the [license file](/docs), huh?
 ### Where is the README file I'm reading right now?
-[idk, I *ABOSOLUTELY 100%LY DONT KNOW WHERE IS IT*. ](/docs)<sub><sub><sub><sub><sub><sup><sup>i am struggling lieing xD</sup></sup><sub><sub><sub><sub><sub><sup><sup> **I DEFENITLY *DON'T* KNOW!**
+[idk, I *ABOSOLUTELY 100%LY DONT KNOW WHERE IS IT*. ](/docs)<sub><sub><sub><sub><sub><sup><sup>i am struggling lieing xD</sup></sup></sub></sub></sub></sub></sub> **I DEFENITLY *DON'T* KNOW!**
 
