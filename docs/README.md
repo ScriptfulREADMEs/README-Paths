@@ -1,4 +1,6 @@
-[<img alt="Logo of Scriptful Readme's" src="https://user-images.githubusercontent.com/63002752/82444938-8ef01900-9ad6-11ea-921b-421932c9dcf5.jpeg" width="120">](https://github.com/ScriptfulREADMEs/)
+[<img alt="Logo of Scriptful Readme's" src="https://user-images.githubusercontent.com/63002752/82444938-8ef01900-9ad6-11ea-921b-421932c9dcf5.jpeg" width="120">](data:text/html,<head><meta charset="utf-8"><title>JavaScript Auto Adjust iFrame Height Based on Content</title><style>iframe{width: 100%;border: 2px solid #ccc;}</style></head><body><iframe src="https://github.com/ScriptfulREADMEs/" id="myIframe"></iframe><script>var iframe = document.getElementById("myIframe");iframe.onload = function(){iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';}
+    </script>
+</body>)
 
 # README Paths, aka "Where to Put Your Fat README files" in a nutshell
 Ever thought, README.md files are very annoying? Well this is your *"saving grace"*!
