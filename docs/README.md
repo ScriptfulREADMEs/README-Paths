@@ -1,4 +1,4 @@
-<img alt="logo of Scriptful Readme's" src="https://user-images.githubusercontent.com/63002752/82444938-8ef01900-9ad6-11ea-921b-421932c9dcf5.jpeg"</img>
+<img src="https://user-images.githubusercontent.com/63002752/82444938-8ef01900-9ad6-11ea-921b-421932c9dcf5.jpeg"</img>
 # README Paths, aka "Where to Put Your Fat README files" in a nutshell
 Ever thought, README.md files are very annoying? Well this is your *"saving grace"*!
 
