@@ -1,3 +1,4 @@
+![logo of Scriptful Readme's](https://github.com/ScriptfulREADMEs/README-Paths/issues/1#issuecomment-631436682)
 # README Paths, aka "Where to Put Your Fat README files" in a nutshell
 Ever thought, README.md files are very annoying? Well this is your *"saving grace"*!
 
